@@ -1,6 +1,5 @@
 package us.idlechatter.scribbler;
 
-import org.eclipse.swt.SWT;
 import org.eclipse.swt.widgets.*;
 
 public class Main {
